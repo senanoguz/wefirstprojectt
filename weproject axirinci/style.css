@@ -1,0 +1,167 @@
+
+.footer{
+    padding-top:20px;
+    clear: both;
+    z-index: 1;
+    margin-top:30px;
+}
+.footermenu ul{
+    list-style: none;
+
+}
+a {
+    text-decoration: none !important;
+}
+.footermenu ul li{
+  display:inline;
+  padding:10px;
+  
+    
+}
+.footermenu ul li a{
+    display:inline;
+    padding:10px;
+    font-size:16px;
+    color:white;
+  }
+.footermenu p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:19px;
+    font-weight: bold;
+    color:grey;
+
+}
+.middle {
+    margin-top: 80px;
+    margin-left: 9%;
+}
+
+.rightdesign {
+    margin-right: 20px;
+    width: 200px;
+    margin-bottom: 20px
+}
+.menuup a{
+    margin-right:10px;
+    font-size:14px;
+    width: 100%;
+    height: 100px;
+}
+.menuup a:hover{
+    /* text-decoration: none; */
+    /* margin-right:10px;
+    background-color:black;
+    font-size:18px;
+    padding: 40px; */
+    color: yellow;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.w-100{
+    height: 460px;
+}
+.solreklam {
+    position: fixed;
+    top: 170px;
+    left: 40px;
+    z-index: -1;
+}
+#carouselExampleControls h5{
+background-color:rgba(0, 0, 0, 0.623);
+
+}
+
+.icons a>i{
+    margin-right:20px;
+}
+.sagreklam {
+    position: fixed;
+    top: 170px;
+    right: 40px;
+    z-index: -1;
+}
+
+.oku-link {
+    /* display: inline-block; */
+    margin-top: 8px;
+    margin-right: 15px;
+    line-height: 22px;
+    color: white;
+    font-size: 14px;
+}
+
+.logo {
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 30px;
+    color: white;
+}
+
+.navbar a:hover{
+    color:yellow !important;
+}
+
+.header {
+    top:0;
+    position: fixed;
+    width: 100%;
+    z-index: 2;
+}
+
+.main {
+    margin-top: 61px;
+}
+
+.news-img {
+    display: inline-block;
+    vertical-align: top;
+    min-height: 100px;
+    margin-left: 260px;
+    margin-top: 20px;
+}
+
+
+.news_top{
+    color: #13317f;
+    font-size: 40px;
+    margin-left: 260px;
+    margin-right: -310px
+}
+
+.news{
+    color: black;
+    font-size: 18px;
+    margin-left: 260px;
+    margin-right: -310px
+}
+
+#video1{
+    margin-left: 0;
+}
+
+.kateqoriya1{
+    background-color: rgba(82, 73, 73, 0.877);
+    height: 55px;
+    width: 100%;
+    padding-top: 12px;
+    /* margin-top: 20px; */
+    border-bottom: 1px solid rgb(102, 86, 86);
+}
+
+.kateqoriya2{
+    background-color: rgba(82, 73, 73, 0.877);
+    height: 55px;
+    width: 100%;
+    padding-top: 12px;
+}
+
+.nav-i {
+    position: relative;
+    left: 10%;
+    color: white;
+    font-size: 20px;
+    padding-left: 17px;
+    padding-right: 10px;
+    margin-top: 20px;
+    text-decoration: none !important;
+}
