@@ -1,0 +1,76 @@
+.slidersize {
+    width: 100%;
+    max-height: 400px;
+}
+.diqqet{
+    margin-top:40px;
+}
+.search{
+    margin-right:30px;
+}
+.istifadecipaneli{
+    margin-right:150px;
+}
+.ustmenu{
+    position: fixed !important;
+    top:0px !important;
+
+}
+.sol{   
+        position: fixed;
+        left:140px;
+        top: 60px;
+
+}
+
+.sag{
+   
+    position: fixed;
+    right:140px;
+    top: 60px;
+    
+}
+.float{
+    float:left;
+}
+.solmenu{
+  margin-top:20px;
+}
+.sagmenu{
+    margin-top:20px;
+    margin-bottom:10x;
+}
+.sagmenu img{
+    margin-bottom: 20px;
+}
+.xeberler{
+    margin-bottom:20px;
+}
+.footer{
+    padding-top:20px;
+    clear: both;
+    margin-top:30px;
+}
+.footermenu ul{
+    list-style: none;
+
+}
+.footermenu ul li{
+  display:inline;
+  padding:10px;
+  
+    
+}
+.footermenu ul li a{
+    display:inline;
+    padding:10px;
+    font-size:16px;
+    color:white;
+  }
+.footermenu p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:19px;
+    font-weight: bold;
+    color:grey;
+
+}
