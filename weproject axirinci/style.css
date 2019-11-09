@@ -165,3 +165,11 @@ background-color:rgba(0, 0, 0, 0.623);
     margin-top: 20px;
     text-decoration: none !important;
 }
+
+.h1{
+    font-size: 20px;
+    color: rgb(28, 28, 112);
+    /* background-color: grey;
+    height: 100%;
+    width: 100%; */
+}
