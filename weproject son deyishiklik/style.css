@@ -1,36 +1,4 @@
 
-.footer{
-    padding-top:20px;
-    clear: both;
-    z-index: 1;
-    margin-top:30px;
-}
-.footermenu ul{
-    list-style: none;
-
-}
-a {
-    text-decoration: none !important;
-}
-.footermenu ul li{
-  display:inline;
-  padding:10px;
-  
-    
-}
-.footermenu ul li a{
-    display:inline;
-    padding:10px;
-    font-size:16px;
-    color:white;
-  }
-.footermenu p {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size:19px;
-    font-weight: bold;
-    color:grey;
-
-}
 .middle {
     margin-top: 80px;
     margin-left: 9%;
@@ -48,36 +16,26 @@ a {
     height: 100px;
 }
 .menuup a:hover{
-    /* text-decoration: none; */
-    /* margin-right:10px;
+    text-decoration: none;
+    margin-right:10px;
     background-color:black;
     font-size:18px;
-    padding: 40px; */
-    color: yellow;
+    padding: 40px;
+    color:white;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-}
-.w-100{
-    height: 460px;
 }
 .solreklam {
     position: fixed;
-    top: 170px;
+    top: 70px;
     left: 40px;
-    z-index: -1;
 }
-#carouselExampleControls h5{
-background-color:rgba(0, 0, 0, 0.623);
-
-}
-
 .icons a>i{
     margin-right:20px;
 }
 .sagreklam {
     position: fixed;
-    top: 170px;
+    top: 70px;
     right: 40px;
-    z-index: -1;
 }
 
 .oku-link {
@@ -94,11 +52,7 @@ background-color:rgba(0, 0, 0, 0.623);
     display: inline-block;
     vertical-align: top;
     font-size: 30px;
-    color: white;
-}
-
-.navbar a:hover{
-    color:yellow !important;
+    color: yellow;
 }
 
 .header {
@@ -109,82 +63,6 @@ background-color:rgba(0, 0, 0, 0.623);
 }
 
 .main {
-    margin-top: 61px;
+    margin-top: 50px;
 }
 
-.news-img {
-    display: inline-block;
-    vertical-align: top;
-    min-height: 100px;
-    margin-left: 260px;
-    margin-top: 20px;
-}
-
-
-.news_top{
-    color: #13317f;
-    font-size: 40px;
-    margin-left: 260px;
-    margin-right: -310px
-}
-
-.news{
-    color: black;
-    font-size: 18px;
-    margin-left: 260px;
-    margin-right: -310px
-}
-
-#video1{
-    margin-left: 0;
-}
-
-.kateqoriya1{
-    background-color: rgba(82, 73, 73, 0.877);
-    height: 55px;
-    width: 100%;
-    padding-top: 12px;
-    /* margin-top: 20px; */
-    border-bottom: 1px solid rgb(102, 86, 86);
-}
-
-.kateqoriya2{
-    background-color: rgba(82, 73, 73, 0.877);
-    height: 55px;
-    width: 100%;
-    padding-top: 12px;
-}
-
-.nav-i {
-    position: relative;
-    left: 10%;
-    color: white;
-    font-size: 20px;
-    padding-left: 17px;
-    padding-right: 10px;
-    margin-top: 20px;
-    text-decoration: none !important;
-}
-
-.h1{
-    font-size: 20px;
-    color: rgb(28, 28, 112);
-    /* background-color: grey;
-    height: 100%;
-    width: 100%; */
-}
-
-.h2{
-    color:  rgb(28, 28, 112);
-}
-
-.tarix{
-    float: right;
-    width: 23%;
-    height: 6%;
-    text-align: center;
-    size: 30px;
-    color: rgb(245, 241, 7);
-    background-color: rgb(7, 75, 131);
-    font-family: 'Lobster', cursive;
-}
