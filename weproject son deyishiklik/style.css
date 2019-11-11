@@ -173,3 +173,18 @@ background-color:rgba(0, 0, 0, 0.623);
     height: 100%;
     width: 100%; */
 }
+
+.h2{
+    color:  rgb(28, 28, 112);
+}
+
+.tarix{
+    float: right;
+    width: 23%;
+    height: 6%;
+    text-align: center;
+    size: 30px;
+    color: rgb(245, 241, 7);
+    background-color: rgb(7, 75, 131);
+    font-family: 'Lobster', cursive;
+}
